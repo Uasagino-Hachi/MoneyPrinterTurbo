@@ -42,3 +42,12 @@ htmlcov/
 .codegraph
 /docs/superpowers
 .understand-anything
+
+# 自分の作業ファイル（このリポジトリはダウンロード元。commitしない）
+/出力/
+/手動画像/
+/gen_images.py
+/fetch_pexels_photos.py
+/make_clips.py
+/引継ぎ.md
+/無課金セットアップ.md
